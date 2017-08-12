@@ -5,6 +5,8 @@ public class java {
 		 
 		
 		System.out.println("mani");
+		
+		System.out.println("lover");
 	}
 
 }
